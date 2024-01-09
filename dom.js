@@ -184,7 +184,8 @@ class KnowlgedBase{
 
 
 
-let K=new KnowlgedBase(['a','b','c','d']);
-K.ReSet();
-K.SetToMemory();
+//let K=new KnowlgedBase(['a','b','c','d']);
+//K.ReSet();
+//K.SetToMemory();
  
+// in this inner code be search algorithm breadth in methid SetToMemory 
